@@ -5,4 +5,5 @@ lalalaaala.
 Git tracks changes of files.
 add : Creating a new branch is quick.
 branch:Creating a new branch is quick and simple.
+英文状态下按"q"退出git log状态
 
